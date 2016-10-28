@@ -1,0 +1,4 @@
+nexposeURI: https://localhost:3780
+nexposeUser: nxadmin
+nexposePassword: nxpassword
+logLevel: info
